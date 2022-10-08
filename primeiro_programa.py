@@ -1,0 +1,1 @@
+print("fubica véia")
